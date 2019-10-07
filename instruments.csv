@@ -1,0 +1,60 @@
+﻿Code,Name,Rate
+,,
+XAU,Gold,scraped value
+XAG,Silver,scraped value
+HG,Copper,scraped value
+CL,Oil,scraped value
+RB,Gasoline,scraped value
+SB,Sugar,scraped value
+NG,Nat gas,scraped value
+,,
+EURUSD,EURUSD,scraped value
+USDJPY,USDJPY,scraped value
+GBPUSD,GBPUSD,scraped value
+GBPJPY,GBPJPY,scraped value
+USDCAD,USDCAD,scraped value
+AUDUSD,AUDUSD,scraped value
+EURJPY,EURJPY,scraped value
+NZDUSD,NZDUSD,scraped value
+EURAUD,EURAUD,scraped value
+GBPAUD,GBPAUD,scraped value
+USDCHF,USDCHF,scraped value
+USDTRY,USDTRY,scraped value
+GBPNZD,GBPNZD,scraped value
+USDMXN,USDMXN,scraped value
+AUDJPY,AUDJPY,scraped value
+EURGBP,EURGBP,scraped value
+EURNZD,EURNZD,scraped value
+USDNOK,USDNOK,scraped value
+AUDNZD,AUDNZD,scraped value
+USDCNH,USDCNH,scraped value
+NZDJPY,NZDJPY,scraped value
+USDZAR,USDZAR,scraped value
+CHFJPY,CHFJPY,scraped value
+EURCHF,EURCHF,scraped value
+USDSGD,USDSGD,scraped value
+GBPCHF,GBPCHF,scraped value
+USDSEK,USDSEK,scraped value
+EURMXN,EURMXN,scraped value
+NZDCHF,NZDCHF,scraped value
+AUDCHF,AUDCHF,scraped value
+EURNOK,EURNOK,scraped value
+EURSEK,EURSEK,scraped value
+USDPLN,USDPLN,scraped value
+USDRUB,USDRUB,scraped value
+EURPLN,EURPLN,scraped value
+EURZAR,EURZAR,scraped value
+GBPSGD,GBPSGD,scraped value
+USDCZK,USDCZK,scraped value
+,,
+FDAX,Germany 30,scraped value
+NIY,Japan 225,scraped value
+UK100,UK 100,scraped value
+YM,Wall Street,scraped value
+FCE,France 40,scraped value
+NQ,US Tech 100,scraped value
+ES,US 500,scraped value
+FESX,Europe 50,scraped value
+,,
+BTCUSD,Bitcoin,scraped value
+ETHUSD,Ethereum,scraped value

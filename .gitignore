@@ -1,0 +1,10 @@
+_labs
+.vscode
+venv
+.mypy_cache
+__pycache__
+*.pyc
+geckodriver.log
+static/files/*
+!static/files/.gitkeep
+geckodriver
