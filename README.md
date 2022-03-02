@@ -11,11 +11,11 @@ sudo apt-get install firefox -y
 ```
 
 Another requirement is the Geckodriver for Selenium.
-Download [here](https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz) and unzip it into project root folder.
+Download [here](https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-linux64.tar.gz) and unzip it into project root folder.
 Command to download and extract on ubuntu:
 
 ```bash
-wget -c https://github.com/mozilla/geckodriver/releases/download/v0.24.0/geckodriver-v0.24.0-linux64.tar.gz -O - | tar -xz -C ./
+wget -c https://github.com/mozilla/geckodriver/releases/download/v0.30.0/geckodriver-v0.30.0-linux64.tar.gz -O - | tar -xz -C ./
 ```
 
 Module requirements are inside the `requirements.txt` file.
