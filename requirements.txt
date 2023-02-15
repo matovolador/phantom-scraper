@@ -57,6 +57,6 @@ typing-extensions==3.7.4
 urllib3==1.26.5
 w3lib==1.21.0
 wait-for==1.1.0
-Werkzeug==0.15.5
+Werkzeug==2.2.3
 wrapt==1.11.2
 zope.interface==4.6.0
